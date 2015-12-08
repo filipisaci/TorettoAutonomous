@@ -63,7 +63,6 @@ int echo_tras_direita = A4;
 void setup(){
   Serial.begin(9600);
   Serial.print("Iniciando o codigo\n");
-  //Porque isso faz a garra subir e abri-la??
   servo_cima.attach(10); // abre e fecha
   servo_baixo.attach(9); // sobe e desce
 
