@@ -5,4 +5,4 @@ Projeto da faculdade SATC para a disciplina de eletrônica da quinta fase de eng
 http://www.instructables.com/id/Torettos-Autonomous
 
 # Vídeos do projeto
-https://www.youtube.com/watch?v=DpLAmkW7qhQ&list=PLLkyaMiwMitDh0srX7A1BpN87i4hT-i4r&index=1
+https://www.youtube.com/playlist?list=PLO5WWatpxrTxgEn9lXWD66In1Z5dsVHeO
